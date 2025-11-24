@@ -1,0 +1,25 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A full wave rectifier circuit produces a peak rectified voltage output VRP = 10V. The AC signal frequency is 50Hz. The load resistance is 10 k?. If the ripple voltage is to be limited to Vr = 0.1V then the filter capacitor C is",
+      "answers": {
+        "a": "10 uF",
+        "b": "20 uF",
+        "c": "50 uF",
+        "d": "100 uF"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    
+    
+    
+  ]
+}
