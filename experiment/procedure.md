@@ -12,7 +12,7 @@
 - Channel 1 shows the input wave, Channel 2 shows the output wave and Dual shows both the input and output wave.
 
 <div align="center">
-<img src="images/prcd1.png" style="width:100%; height:auto;">
+<img src="images/prcd1.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -28,6 +28,6 @@
 - Channel 1 shows the input wave, Channel 2 shows the output wave and Dual shows both the input and output wave.
 
 <div align="center">
-<img src="images/prcd2.png" style="width:100%; height:auto;">
+<img src="images/prcd2.png" style="max-width:100%; height:auto;">
 <p>Figure:2</p>
 </div>
