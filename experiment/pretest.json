@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "A half wave rectifier circuit produces a peak rectified voltage output VRM = 9V. The AC signal frequency f = 50Hz. The load Resistance = 12 k?. If the ripple voltage Vr is to be limited to 0.2V, then the filter capacitor C is",
+        "question": "A half wave rectifier circuit produces a peak rectified voltage output VRM = 9V. The AC signal frequency f = 50Hz. The load Resistance = 12 kohm. If the ripple voltage Vr is to be limited to 0.2V, then the filter capacitor C is",
         "answers": {
           "a": "25 uF",
           "b": "50 uF",
