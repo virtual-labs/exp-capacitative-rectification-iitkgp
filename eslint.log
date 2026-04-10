@@ -1,0 +1,118 @@
+
+/home/runner/work/exp-capacitative-rectification-iitkgp/exp-capacitative-rectification-iitkgp/experiment/simulation/js/caparechlfjs.js
+   14:10  warning  'mainswt' is defined but never used                 no-unused-vars
+   90:10  warning  'sliderChange' is defined but never used            no-unused-vars
+  104:10  warning  'posichnge' is defined but never used               no-unused-vars
+  118:10  warning  'phasesld' is defined but never used                no-unused-vars
+  133:10  warning  'freqnc' is defined but never used                  no-unused-vars
+  176:9   warning  'pos' is already defined                            no-redeclare
+  232:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  266:10  warning  'slidrchng' is defined but never used               no-unused-vars
+  280:10  warning  'poschg' is defined but never used                  no-unused-vars
+  295:10  warning  'phaseslds' is defined but never used               no-unused-vars
+  309:10  warning  'frqs' is defined but never used                    no-unused-vars
+  358:44  warning  'z' is assigned a value but never used              no-unused-vars
+  404:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  457:9   warning  'pos' is already defined                            no-redeclare
+  518:9   warning  'fo' is already defined                             no-redeclare
+  527:9   warning  'x' is already defined                              no-redeclare
+  527:26  warning  'y' is already defined                              no-redeclare
+  528:9   warning  'dt' is already defined                             no-redeclare
+  528:13  warning  'tstart' is already defined                         no-redeclare
+  528:21  warning  'tstop' is already defined                          no-redeclare
+  545:9   warning  'i' is already defined                              no-redeclare
+  545:12  warning  'x0' is already defined                             no-redeclare
+  545:16  warning  'y0' is already defined                             no-redeclare
+  545:20  warning  'xscale' is already defined                         no-redeclare
+  545:28  warning  'yscale' is already defined                         no-redeclare
+  545:36  warning  'xp' is already defined                             no-redeclare
+  545:40  warning  'yp' is already defined                             no-redeclare
+  545:44  warning  'z' is assigned a value but never used              no-unused-vars
+  558:9   warning  'p' is already defined                              no-redeclare
+  592:10  warning  'bthd' is defined but never used                    no-unused-vars
+  648:9   warning  'pos' is already defined                            no-redeclare
+  709:9   warning  'fo' is already defined                             no-redeclare
+  718:9   warning  'x' is already defined                              no-redeclare
+  718:26  warning  'y' is already defined                              no-redeclare
+  719:9   warning  'dt' is already defined                             no-redeclare
+  719:13  warning  'tstart' is already defined                         no-redeclare
+  719:21  warning  'tstop' is already defined                          no-redeclare
+  736:9   warning  'i' is already defined                              no-redeclare
+  736:12  warning  'x0' is already defined                             no-redeclare
+  736:16  warning  'y0' is already defined                             no-redeclare
+  736:20  warning  'xscale' is already defined                         no-redeclare
+  736:28  warning  'yscale' is already defined                         no-redeclare
+  736:36  warning  'xp' is already defined                             no-redeclare
+  736:40  warning  'yp' is already defined                             no-redeclare
+  736:44  warning  'z' is assigned a value but never used              no-unused-vars
+  749:9   warning  'p' is already defined                              no-redeclare
+  783:10  warning  'grnds' is defined but never used                   no-unused-vars
+  837:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  848:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  849:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  924:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-capacitative-rectification-iitkgp/exp-capacitative-rectification-iitkgp/experiment/simulation/js/caparecjs.js
+   14:10  warning  'mainswt' is defined but never used                 no-unused-vars
+   90:10  warning  'sliderChange' is defined but never used            no-unused-vars
+  104:10  warning  'posichnge' is defined but never used               no-unused-vars
+  118:10  warning  'phasesld' is defined but never used                no-unused-vars
+  133:10  warning  'freqnc' is defined but never used                  no-unused-vars
+  180:9   warning  'i' is already defined                              no-redeclare
+  208:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  242:10  warning  'slidrchng' is defined but never used               no-unused-vars
+  256:10  warning  'poschg' is defined but never used                  no-unused-vars
+  271:10  warning  'phaseslds' is defined but never used               no-unused-vars
+  285:10  warning  'frqs' is defined but never used                    no-unused-vars
+  334:44  warning  'z' is assigned a value but never used              no-unused-vars
+  403:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  460:9   warning  'i' is already defined                              no-redeclare
+  490:9   warning  'fos' is assigned a value but never used            no-unused-vars
+  500:9   warning  'x' is already defined                              no-redeclare
+  500:26  warning  'y' is already defined                              no-redeclare
+  501:9   warning  'dt' is already defined                             no-redeclare
+  501:13  warning  'tstart' is already defined                         no-redeclare
+  501:21  warning  'tstop' is already defined                          no-redeclare
+  518:9   warning  'i' is already defined                              no-redeclare
+  518:12  warning  'x0' is already defined                             no-redeclare
+  518:16  warning  'y0' is already defined                             no-redeclare
+  518:20  warning  'xscale' is already defined                         no-redeclare
+  518:28  warning  'yscale' is already defined                         no-redeclare
+  518:36  warning  'xp' is already defined                             no-redeclare
+  518:40  warning  'yp' is already defined                             no-redeclare
+  518:44  warning  'z' is assigned a value but never used              no-unused-vars
+  531:9   warning  'p' is already defined                              no-redeclare
+  587:10  warning  'bthd' is defined but never used                    no-unused-vars
+  646:9   warning  'i' is already defined                              no-redeclare
+  676:9   warning  'fos' is assigned a value but never used            no-unused-vars
+  686:9   warning  'x' is already defined                              no-redeclare
+  686:26  warning  'y' is already defined                              no-redeclare
+  687:9   warning  'dt' is already defined                             no-redeclare
+  687:13  warning  'tstart' is already defined                         no-redeclare
+  687:21  warning  'tstop' is already defined                          no-redeclare
+  704:9   warning  'i' is already defined                              no-redeclare
+  704:12  warning  'x0' is already defined                             no-redeclare
+  704:16  warning  'y0' is already defined                             no-redeclare
+  704:20  warning  'xscale' is already defined                         no-redeclare
+  704:28  warning  'yscale' is already defined                         no-redeclare
+  704:36  warning  'xp' is already defined                             no-redeclare
+  704:40  warning  'yp' is already defined                             no-redeclare
+  704:44  warning  'z' is assigned a value but never used              no-unused-vars
+  717:9   warning  'p' is already defined                              no-redeclare
+  773:10  warning  'grnds' is defined but never used                   no-unused-vars
+  827:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  838:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  839:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  914:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-capacitative-rectification-iitkgp/exp-capacitative-rectification-iitkgp/experiment/simulation/js/virtualc.js
+  36:10  warning  'v' is defined but never used         no-unused-vars
+  42:10  warning  'Root' is defined but never used      no-unused-vars
+  54:10  warning  'Power' is defined but never used     no-unused-vars
+  66:10  warning  'TrigFunc' is defined but never used  no-unused-vars
+  80:10  warning  'eqls' is defined but never used      no-unused-vars
+  92:10  warning  'calcul' is defined but never used    no-unused-vars
+  98:10  warning  'ok' is defined but never used        no-unused-vars
+
+✖ 109 problems (0 errors, 109 warnings)
+
